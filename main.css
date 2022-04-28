@@ -1,0 +1,109 @@
+
+*{
+    Margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image : url('./img/fondo.jpg')
+    display: flex;
+    height: 600px;
+    flex-direction: column;
+    padding: 1em;}
+
+
+
+h1 {
+    color:#a52a2a;
+    font-style: Bold;
+    font-weight: 100;
+    font-size: 3rem;
+    font-family: Verdana, Tahoma, sans-serif;
+    line-height: 1.5;
+    margin-top: 5px;
+    margin-right: 10;
+    margin-left: 15;
+    margin-bottom: 3;
+    padding-top: 5;
+    padding bottom: 3;
+    padding left: 12;
+    padding right: 15;
+}
+
+h2 {
+    color:#a52a2a;
+    font-style: italic;
+    font-weight: 100;
+    font-size: 2rem;
+    font-family: Verdana, Tahoma, sans-serif;
+    line-height: 3;
+    margin-top: 10px;
+    margin-right: 10;
+    margin-left: 25;
+    margin-bottom: 0;
+    padding-top: 15;
+    padding bottom: 0;
+    padding left: 20;
+    padding right: 20;
+}
+
+h3 {
+    color:  #000000;
+    font-style: bold;
+    font-weight: 100;
+    font-size: 1.5rem;
+    font-family: Verdana, Tahoma, sans-serif;
+    line-height: 3;
+    margin-top: 10px;
+    margin-right: 10;
+    margin-left: 25;
+    margin-bottom: 0;
+    padding-top: 15;
+    padding bottom: 0;
+    padding left: 20;
+    padding right: 20;
+}
+
+.parrafo1 {
+    color: #000000;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 1rem;
+    font-family: Verdana, Tahoma, sans-serif;
+    line-height: 1;
+    margin-top: 5px;
+    margin-right: 10;
+    margin-left: 15;
+    margin-bottom: 12;
+    padding-top: 5;
+    padding bottom: 10;
+    padding left: 12;
+    padding right: 15;
+}
+
+.imagenes {
+    margin-top: 5px;
+    margin-right: 10;
+    margin-left: 15;
+    margin-bottom: 12;
+    padding-top: 5;
+    padding bottom: 10;
+    padding left: 12;
+    padding right: 15;
+    align-content: center
+
+}
+
+footer {
+    text-align: center;
+    color: #a52a2a;
+    flex:1;
+    padding: 1rem;
+    margin:1px;
+}
+
+header {
+    margin:1px;
+    flex:1;
+}
+ 
